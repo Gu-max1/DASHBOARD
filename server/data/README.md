@@ -1,0 +1,1 @@
+El archivo `inventario.xlsx` se genera automaticamente la primera vez que se inicia el servidor o se ejecuta `python seed_data.py`. Incluye hojas para Inventario, Movimientos, Conteos y Configuracion.
